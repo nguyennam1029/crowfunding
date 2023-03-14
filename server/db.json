@@ -1,0 +1,292 @@
+{
+  "posts": [
+    {
+      "title": "CopyRight Automatico",
+      "tags": "[JS]"
+    },
+    {
+      "title": "HtmlWebpackPlugin Multiples HTML files",
+      "tags": "[JS, webpack]"
+    }
+  ],
+  "users": [
+    {
+      "fullName": "ss",
+      "email": "namcoi1029@gmail.com",
+      "password": "ssssssss",
+      "id": 20
+    },
+    {
+      "fullName": "Nguyễn Nam",
+      "email": "namcfdfoi1029@gmail.com",
+      "password": "ggrrrgsdfsf",
+      "id": 21
+    },
+    {
+      "fullName": "Nguyễn Nams",
+      "email": "namcoi1ssss029@gmail.com",
+      "password": "htyhhhhdfdf",
+      "id": 22
+    },
+    {
+      "fullName": "Nguyễn Nam",
+      "email": "adminnamm@gmail.com",
+      "password": "hrhhrrrhrhrh",
+      "id": 23
+    },
+    {
+      "fullName": "BackEnd2",
+      "email": "adminnamm@gmail.com",
+      "password": "ssfeeeerere",
+      "id": 24
+    },
+    {
+      "fullName": "BackEnd2",
+      "email": "adminnamm@gmail.com",
+      "password": "gggggggrrr",
+      "id": 25
+    },
+    {
+      "fullName": "Nguyễn Nam",
+      "email": "adminnamm@gmail.com",
+      "password": "sscscsccscs",
+      "id": 26
+    },
+    {
+      "fullName": "Nguyễn Nam",
+      "email": "nguyennam10320011@gmail.com",
+      "password": "grgrgrgrgrg",
+      "id": 27
+    },
+    {
+      "fullName": "Lươn nướng Nhật",
+      "email": "admin@gmail.com",
+      "password": "ffsfsfsfsf",
+      "id": 28
+    },
+    {
+      "fullName": "Nguyễn Nam",
+      "email": "nguyennam10320011@gmail.com",
+      "password": "ssfffsfsfsf",
+      "id": 29
+    },
+    {
+      "fullName": "BackEnd2",
+      "email": "nguyennam10320011@gmail.com",
+      "password": "dsd",
+      "id": 30
+    },
+    {
+      "fullName": "Nguyễn Nam",
+      "email": "namcoi1029@gmail.com",
+      "password": "ww",
+      "id": 31
+    },
+    {
+      "fullName": "Nguyễn Nam",
+      "email": "nguyennam10320011@gmail.com",
+      "password": "a",
+      "id": 32
+    },
+    {
+      "fullName": "Nguyen Nam",
+      "email": "nguyennam10320011@gmail.com",
+      "password": "s",
+      "id": 33
+    },
+    {
+      "fullName": "BackEnd2",
+      "email": "admin@gmail.com",
+      "password": "s",
+      "id": 34
+    },
+    {
+      "fullName": "Nguyễn Nam",
+      "email": "namcoi1029@gmail.com",
+      "password": "ss",
+      "id": 35
+    },
+    {
+      "fullName": "Nguyễn Nam",
+      "email": "nguyennam10320011@gmail.com",
+      "password": "s",
+      "id": 36
+    },
+    {
+      "fullName": "BackEnd2",
+      "email": "adminnamm@gmail.com",
+      "password": "s",
+      "id": 37
+    },
+    {
+      "fullName": "cssc",
+      "email": "admin@gmail.com",
+      "password": "sc",
+      "id": 38
+    },
+    {
+      "fullName": "Nguyễn Nam",
+      "email": "namcoi1029@gmail.com",
+      "password": "sss",
+      "avatar": "https://scontent-hkt1-2.xx.fbcdn.net/v/t39.30808-6/329850244_581124607217235_4231346006075250628_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=RPo4_5-LdvUAX-hGyoO&_nc_ht=scontent-hkt1-2.xx&oh=00_AfDLJ6gTyf6TaYhpJxw8H2S61RmxlYwJqjst9F4ghBY46A&oe=641520A4",
+      "id": 39
+    },
+    {
+      "fullName": "BackEnd2",
+      "email": "nguyennam10320011@gmail.com",
+      "password": "sdsd",
+      "avatar": "https://scontent-hkt1-2.xx.fbcdn.net/v/t39.30808-6/329850244_581124607217235_4231346006075250628_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=RPo4_5-LdvUAX-hGyoO&_nc_ht=scontent-hkt1-2.xx&oh=00_AfDLJ6gTyf6TaYhpJxw8H2S61RmxlYwJqjst9F4ghBY46A&oe=641520A4",
+      "id": 40
+    },
+    {
+      "fullName": "Nguyễn Nam",
+      "email": "adminnam@gmail.com",
+      "password": "1233",
+      "avatar": "https://scontent-hkt1-2.xx.fbcdn.net/v/t39.30808-6/329850244_581124607217235_4231346006075250628_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=RPo4_5-LdvUAX-hGyoO&_nc_ht=scontent-hkt1-2.xx&oh=00_AfDLJ6gTyf6TaYhpJxw8H2S61RmxlYwJqjst9F4ghBY46A&oe=641520A4",
+      "id": 41
+    },
+    {
+      "fullName": "Nam Huyền",
+      "email": "nguyennam10320011@gmail.com",
+      "password": "123",
+      "avatar": "https://scontent-hkt1-2.xx.fbcdn.net/v/t39.30808-6/329850244_581124607217235_4231346006075250628_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=RPo4_5-LdvUAX-hGyoO&_nc_ht=scontent-hkt1-2.xx&oh=00_AfDLJ6gTyf6TaYhpJxw8H2S61RmxlYwJqjst9F4ghBY46A&oe=641520A4",
+      "id": 42
+    }
+  ],
+  "currentUser": {
+    "fullName": "Nam Huyền",
+    "email": "nguyennam10320011@gmail.com",
+    "password": "123",
+    "avatar": "https://scontent-hkt1-2.xx.fbcdn.net/v/t39.30808-6/329850244_581124607217235_4231346006075250628_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=RPo4_5-LdvUAX-hGyoO&_nc_ht=scontent-hkt1-2.xx&oh=00_AfDLJ6gTyf6TaYhpJxw8H2S61RmxlYwJqjst9F4ghBY46A&oe=641520A4"
+  },
+  "categories": [
+    {
+      "title": "Campaign",
+      "url": "/Campaign",
+      "id": 1
+    },
+    {
+      "title": "Risks",
+      "url": "/risks"
+    },
+    {
+      "title": "FAQ",
+      "url": "/faq"
+    },
+    {
+      "title": "Updates",
+      "url": "/updates"
+    },
+    {
+      "title": "Comments",
+      "url": "/comments"
+    }
+  ],
+  "campaigns": [
+    {
+      "title": "Meet - AI Virtual Background 4K Webcam",
+      "short_description": "The first-ever 4K webcam that embeded AI technology to\nprotect your background during video calls.",
+      "goal": "555",
+      "amount": "2222",
+      "prefilled": "122",
+      "featured_image": {
+        "thumb": "https://i.ibb.co/WcbKb9P/camera.png",
+        "url": "https://i.ibb.co/sF030S6/camera.png"
+      },
+      "video": "https://youtu.be/T6FfXfN9a-o",
+      "category": "architecture",
+      "content": "<p><img src=\"https://i.ibb.co/sF030S6/camera.png\"></p><p><br></p><p>Capture everything in 4k, with extended battery life and pro-g</p><p>inspired features. Choose from three 4k recording modes: UHD,</p><p>HD and cinematic 24p. Use the Wi-Fi feature to connect and stream</p><p>your footage wirelessly directly to your iOS and Android smartphones</p><p>or tablets for instant sharing. The monitor has a 3.5\" touch screen</p><p>for easy navigation and built-in wifi that automatically connects</p><p>to the last used smartphone or tablet once paired. </p><p><br></p><p><img src=\"https://i.ibb.co/3MrDNTn/2.png\"></p><p>Built with an <strong>advanced 4K image sensor</strong> and a Super 35 imaging</p><p>processer the GH4 is able to capture cinema quality images</p><p>with astonishing detail. This camera has evolved into a great</p><p>all-rounder for photography or filmmaking.</p><p><br></p><p><strong>Digital Cameras</strong></p><ol><li>Images can be instantly checked, and retaken if necessary.</li><li> 2. Black and White and sepia-tone photos can be easily created.</li><li> 3. Macro photography lets you shoot down to a few centimeters</li><li>     away.</li><li> 4. Most digital cameras can also take moving pictures.</li><li> 5. No film purchase or development costs, Rechargeable battery</li><li>     packs are economical🤑🤑🤑.</li><li> 6. Macro photography lets you shoot down to a few centimeters</li><li>     away.</li></ol>",
+      "id": 1
+    },
+    {
+      "title": "Meet - AI Virtual Background 4K Webcam",
+      "short_description": "The first-ever 4K webcam that embeded AI technology to\nprotect your background during video calls.",
+      "goal": "555",
+      "amount": "2222",
+      "prefilled": "122",
+      "video": "https://youtu.be/T6FfXfN9a-o",
+      "featured_image": {
+        "thumb": "https://i.ibb.co/dLWd2fR/2.png",
+        "url": "https://i.ibb.co/3MrDNTn/2.png"
+      },
+      "category": "architecture",
+      "content": "<p><img src=\"https://i.ibb.co/sF030S6/camera.png\"></p><p><br></p><p>Capture everything in 4k, with extended battery life and pro-g</p><p>inspired features. Choose from three 4k recording modes: UHD,</p><p>HD and cinematic 24p. Use the Wi-Fi feature to connect and stream</p><p>your footage wirelessly directly to your iOS and Android smartphones</p><p>or tablets for instant sharing. The monitor has a 3.5\" touch screen</p><p>for easy navigation and built-in wifi that automatically connects</p><p>to the last used smartphone or tablet once paired. </p><p><br></p><p><img src=\"https://i.ibb.co/3MrDNTn/2.png\"></p><p>Built with an <strong>advanced 4K image sensor</strong> and a Super 35 imaging</p><p>processer the GH4 is able to capture cinema quality images</p><p>with astonishing detail. This camera has evolved into a great</p><p>all-rounder for photography or filmmaking.</p><p><br></p><p><strong>Digital Cameras</strong></p><ol><li>Images can be instantly checked, and retaken if necessary.</li><li> 2. Black and White and sepia-tone photos can be easily created.</li><li> 3. Macro photography lets you shoot down to a few centimeters</li><li>     away.</li><li> 4. Most digital cameras can also take moving pictures.</li><li> 5. No film purchase or development costs, Rechargeable battery</li><li>     packs are economical🤑🤑🤑.</li><li> 6. Macro photography lets you shoot down to a few centimeters</li><li>     away.</li></ol>",
+      "id": 11
+    },
+    {
+      "title": "nhieu vc",
+      "short_description": "The first-ever 4K webcam that embeded AI technology to\nprotect your background during video calls.",
+      "goal": "555",
+      "amount": "2222",
+      "prefilled": "122",
+      "featured_image": {
+        "thumb": "https://i.ibb.co/WcbKb9P/camera.png",
+        "url": "https://i.ibb.co/sF030S6/camera.png"
+      },
+      "video": "https://youtu.be/T6FfXfN9a-o",
+      "category": "architecture",
+      "content": "<p><img src=\"https://i.ibb.co/sF030S6/camera.png\"></p><p><br></p><p>Capture everything in 4k, with extended battery life and pro-g</p><p>inspired features. Choose from three 4k recording modes: UHD,</p><p>HD and cinematic 24p. Use the Wi-Fi feature to connect and stream</p><p>your footage wirelessly directly to your iOS and Android smartphones</p><p>or tablets for instant sharing. The monitor has a 3.5\" touch screen</p><p>for easy navigation and built-in wifi that automatically connects</p><p>to the last used smartphone or tablet once paired.</p><p><br></p><p><img src=\"https://i.ibb.co/3MrDNTn/2.png\"></p><p>Built with an <strong>advanced 4K image sensor</strong> and a Super 35 imaging</p><p>processer the GH4 is able to capture cinema quality images</p><p>with astonishing detail. This camera has evolved into a great</p><p>all-rounder for photography or filmmaking.</p><p><br></p><p><strong>Digital Cameras</strong></p><ol><li>Images can be instantly checked, and retaken if necessary.</li><li>2. Black and White and sepia-tone photos can be easily created.</li><li>3. Macro photography lets you shoot down to a few centimeters</li><li>away.</li><li>4. Most digital cameras can also take moving pictures.</li><li>5. No film purchase or development costs, Rechargeable battery</li><li>packs are economical🤑🤑🤑.</li><li>6. Macro photography lets you shoot down to a few centimeters</li><li>away.</li></ol>",
+      "id": 16
+    },
+    {
+      "title": "nam 2",
+      "short_description": "The first-ever 4K webcam that embeded AI technology to\nprotect your background during video calls.",
+      "goal": "555",
+      "amount": "2222",
+      "prefilled": "122",
+      "featured_image": {
+        "thumb": "https://i.ibb.co/WcbKb9P/camera.png",
+        "url": "https://i.ibb.co/sF030S6/camera.png"
+      },
+      "video": "https://youtu.be/T6FfXfN9a-o",
+      "category": "architecture",
+      "content": "<p><img src=\"https://i.ibb.co/sF030S6/camera.png\"></p><p><br></p><p>Capture everything in 4k, with extended battery life and pro-g</p><p>inspired features. Choose from three 4k recording modes: UHD,</p><p>HD and cinematic 24p. Use the Wi-Fi feature to connect and stream</p><p>your footage wirelessly directly to your iOS and Android smartphones</p><p>or tablets for instant sharing. The monitor has a 3.5\" touch screen</p><p>for easy navigation and built-in wifi that automatically connects</p><p>to the last used smartphone or tablet once paired. </p><p><br></p><p><img src=\"https://i.ibb.co/3MrDNTn/2.png\"></p><p>Built with an <strong>advanced 4K image sensor</strong> and a Super 35 imaging</p><p>processer the GH4 is able to capture cinema quality images</p><p>with astonishing detail. This camera has evolved into a great</p><p>all-rounder for photography or filmmaking.</p><p><br></p><p><strong>Digital Cameras</strong></p><ol><li>Images can be instantly checked, and retaken if necessary.</li><li> 2. Black and White and sepia-tone photos can be easily created.</li><li> 3. Macro photography lets you shoot down to a few centimeters</li><li>     away.</li><li> 4. Most digital cameras can also take moving pictures.</li><li> 5. No film purchase or development costs, Rechargeable battery</li><li>     packs are economical🤑🤑🤑.</li><li> 6. Macro photography lets you shoot down to a few centimeters</li><li>     away.</li></ol>",
+      "id": 16676
+    },
+    {
+      "title": "nam thu",
+      "short_description": "The first-ever 4K webcam that embeded AI technology to\nprotect your background during video calls.",
+      "goal": "555",
+      "amount": "2222",
+      "prefilled": "122",
+      "featured_image": {
+        "thumb": "https://i.ibb.co/WcbKb9P/camera.png",
+        "url": "https://i.ibb.co/sF030S6/camera.png"
+      },
+      "video": "https://youtu.be/T6FfXfN9a-o",
+      "category": "architecture",
+      "content": "<p><img src=\"https://i.ibb.co/sF030S6/camera.png\"></p><p><br></p><p>Capture everything in 4k, with extended battery life and pro-g</p><p>inspired features. Choose from three 4k recording modes: UHD,</p><p>HD and cinematic 24p. Use the Wi-Fi feature to connect and stream</p><p>your footage wirelessly directly to your iOS and Android smartphones</p><p>or tablets for instant sharing. The monitor has a 3.5\" touch screen</p><p>for easy navigation and built-in wifi that automatically connects</p><p>to the last used smartphone or tablet once paired. </p><p><br></p><p><img src=\"https://i.ibb.co/3MrDNTn/2.png\"></p><p>Built with an <strong>advanced 4K image sensor</strong> and a Super 35 imaging</p><p>processer the GH4 is able to capture cinema quality images</p><p>with astonishing detail. This camera has evolved into a great</p><p>all-rounder for photography or filmmaking.</p><p><br></p><p><strong>Digital Cameras</strong></p><ol><li>Images can be instantly checked, and retaken if necessary.</li><li> 2. Black and White and sepia-tone photos can be easily created.</li><li> 3. Macro photography lets you shoot down to a few centimeters</li><li>     away.</li><li> 4. Most digital cameras can also take moving pictures.</li><li> 5. No film purchase or development costs, Rechargeable battery</li><li>     packs are economical🤑🤑🤑.</li><li> 6. Macro photography lets you shoot down to a few centimeters</li><li>     away.</li></ol>",
+      "id": 176
+    },
+    {
+      "title": "nam 2444",
+      "short_description": "The first-ever 4K webcam that embeded AI technology to\nprotect your background during video calls.",
+      "goal": "555",
+      "amount": "2222",
+      "prefilled": "122",
+      "featured_image": {
+        "thumb": "https://i.ibb.co/WcbKb9P/camera.png",
+        "url": "https://i.ibb.co/sF030S6/camera.png"
+      },
+      "video": "https://youtu.be/T6FfXfN9a-o",
+      "category": "architecture",
+      "content": "<p><img src=\"https://i.ibb.co/sF030S6/camera.png\"></p><p><br></p><p>Capture everything in 4k, with extended battery life and pro-g</p><p>inspired features. Choose from three 4k recording modes: UHD,</p><p>HD and cinematic 24p. Use the Wi-Fi feature to connect and stream</p><p>your footage wirelessly directly to your iOS and Android smartphones</p><p>or tablets for instant sharing. The monitor has a 3.5\" touch screen</p><p>for easy navigation and built-in wifi that automatically connects</p><p>to the last used smartphone or tablet once paired. </p><p><br></p><p><img src=\"https://i.ibb.co/3MrDNTn/2.png\"></p><p>Built with an <strong>advanced 4K image sensor</strong> and a Super 35 imaging</p><p>processer the GH4 is able to capture cinema quality images</p><p>with astonishing detail. This camera has evolved into a great</p><p>all-rounder for photography or filmmaking.</p><p><br></p><p><strong>Digital Cameras</strong></p><ol><li>Images can be instantly checked, and retaken if necessary.</li><li> 2. Black and White and sepia-tone photos can be easily created.</li><li> 3. Macro photography lets you shoot down to a few centimeters</li><li>     away.</li><li> 4. Most digital cameras can also take moving pictures.</li><li> 5. No film purchase or development costs, Rechargeable battery</li><li>     packs are economical🤑🤑🤑.</li><li> 6. Macro photography lets you shoot down to a few centimeters</li><li>     away.</li></ol>",
+      "id": 166764
+    },
+    {
+      "title": "nam ",
+      "short_description": "The first-ever 4K webcam that embeded AI technology to\nprotect your background during video calls.",
+      "goal": "555",
+      "amount": "2222",
+      "prefilled": "122",
+      "featured_image": {
+        "thumb": "https://i.ibb.co/WcbKb9P/camera.png",
+        "url": "https://i.ibb.co/sF030S6/camera.png"
+      },
+      "video": "https://youtu.be/T6FfXfN9a-o",
+      "category": "architecture",
+      "content": "<p><img src=\"https://i.ibb.co/sF030S6/camera.png\"></p><p><br></p><p>Capture everything in 4k, with extended battery life and pro-g</p><p>inspired features. Choose from three 4k recording modes: UHD,</p><p>HD and cinematic 24p. Use the Wi-Fi feature to connect and stream</p><p>your footage wirelessly directly to your iOS and Android smartphones</p><p>or tablets for instant sharing. The monitor has a 3.5\" touch screen</p><p>for easy navigation and built-in wifi that automatically connects</p><p>to the last used smartphone or tablet once paired.</p><p><br></p><p><img src=\"https://i.ibb.co/3MrDNTn/2.png\"></p><p>Built with an <strong>advanced 4K image sensor</strong> and a Super 35 imaging</p><p>processer the GH4 is able to capture cinema quality images</p><p>with astonishing detail. This camera has evolved into a great</p><p>all-rounder for photography or filmmaking.</p><p><br></p><p><strong>Digital Cameras</strong></p><ol><li>Images can be instantly checked, and retaken if necessary.</li><li>2. Black and White and sepia-tone photos can be easily created.</li><li>3. Macro photography lets you shoot down to a few centimeters</li><li>away.</li><li>4. Most digital cameras can also take moving pictures.</li><li>5. No film purchase or development costs, Rechargeable battery</li><li>packs are economical🤑🤑🤑.</li><li>6. Macro photography lets you shoot down to a few centimeters</li><li>away.</li></ol>",
+      "id": 17644
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+import { useNavigate } from "react-router-dom";
+import { takeEvery, takeLatest } from "redux-saga/effects";
+
+import {
+  campaignAddNew,
+  deleteCampaign,
+  getCampaign,
+  updateCampaign,
+} from "../campaign/campaign-slice";
+import {
+  handleAddCampaign,
+  handleDeleteCampaign,
+  handleGetCampaign,
+  handleGetNewCampaigns,
+  handleUpdateCampaign,
+} from "./campaign-handlers";
+export default function* campaignSaga() {
+  yield takeLatest(campaignAddNew.type, handleAddCampaign);
+  yield takeLatest(getCampaign.type, handleGetCampaign);
+  yield takeLatest(deleteCampaign.type, handleDeleteCampaign);
+  yield takeLatest(updateCampaign.type, handleUpdateCampaign);
+  yield takeLatest(getCampaign.type, handleGetNewCampaigns);
+}

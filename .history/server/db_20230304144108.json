@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "title": "CopyRight Automatico",
+      "tags": "[JS]"
+    },
+    {
+      "title": "HtmlWebpackPlugin Multiples HTML files",
+      "tags": "[JS, webpack]"
+    }
+  ],
+  "users": [
+    {
+      "id": 8,
+      "name": "Nguyễn Nam",
+      "password": "123456789",
+      "email": "namcoi102fgfgfgf9@gmail.com"
+    }
+  ]
+}

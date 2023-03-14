@@ -1,0 +1,89 @@
+{
+  "posts": [
+    {
+      "title": "CopyRight Automatico",
+      "tags": "[JS]"
+    },
+    {
+      "title": "HtmlWebpackPlugin Multiples HTML files",
+      "tags": "[JS, webpack]"
+    }
+  ],
+  "users": [
+    {
+      "id": 8,
+      "name": "Nguyễn Nam",
+      "password": "123456789",
+      "email": "namcoi102fgfgfgf9@gmail.com"
+    },
+    {
+      "name": "BackEnd2",
+      "email": "admin@gmail.com",
+      "password": "sffffsfsfsf",
+      "id": 9
+    },
+    {
+      "name": "sdsddsds",
+      "email": "nguyennam10320011@gmail.com",
+      "password": "1424333343434",
+      "id": 10
+    },
+    {
+      "name": "nguyennam1029",
+      "email": "adminnamm@gmail.com",
+      "password": "nnkfnkfff",
+      "id": 11
+    }
+  ],
+  "categories": [],
+  "campaigns": [
+    {
+      "title": "Meet - AI Virtual Background 4K Webcam",
+      "short_description": "The first-ever 4K webcam that embeded AI technology to\nprotect your background during video calls.",
+      "goal": "12",
+      "amount": "100",
+      "prefilled": "122",
+      "video": "https://youtu.be/T6FfXfN9a-o",
+      "category": "education",
+      "featured_image": {
+        "medium": "https://i.ibb.co/JthhDbm/DSCF2146.jpg",
+        "thumb": "https://i.ibb.co/c3mm4pk/DSCF2146.jpg",
+        "url": "https://i.ibb.co/B31107c/DSCF2146.jpg"
+      },
+      "country": "Japan",
+      "id": 3
+    },
+    {
+      "title": "Meet - AI Virtual Background 4K Webcam",
+      "short_description": "The first-ever 4K webcam that embeded AI technology to\nprotect your background during video calls.",
+      "goal": "12",
+      "amount": "100",
+      "prefilled": "122",
+      "video": "https://youtu.be/T6FfXfN9a-o",
+      "category": "education",
+      "featured_image": {
+        "medium": "https://i.ibb.co/JthhDbm/DSCF2146.jpg",
+        "thumb": "https://i.ibb.co/c3mm4pk/DSCF2146.jpg",
+        "url": "https://i.ibb.co/B31107c/DSCF2146.jpg"
+      },
+      "country": "Japan",
+      "id": 4
+    },
+    {
+      "title": "Meet - AI Virtual Background 4K Webcam",
+      "short_description": "The first-ever 4K webcam that embeded AI technology to\nprotect your background during video calls.",
+      "goal": "12",
+      "amount": "100",
+      "prefilled": "122",
+      "video": "https://youtu.be/T6FfXfN9a-o",
+      "category": "education",
+      "featured_image": {
+        "medium": "https://i.ibb.co/JthhDbm/DSCF2146.jpg",
+        "thumb": "https://i.ibb.co/c3mm4pk/DSCF2146.jpg",
+        "url": "https://i.ibb.co/B31107c/DSCF2146.jpg"
+      },
+      "country": "Japan",
+      "id": 5
+    }
+  ]
+}

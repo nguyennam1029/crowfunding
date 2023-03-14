@@ -1,0 +1,126 @@
+{
+  "posts": [
+    {
+      "title": "CopyRight Automatico",
+      "tags": "[JS]"
+    },
+    {
+      "title": "HtmlWebpackPlugin Multiples HTML files",
+      "tags": "[JS, webpack]"
+    }
+  ],
+  "users": [
+    {
+      "id": 8,
+      "name": "Nguyễn Nam",
+      "password": "123456789",
+      "email": "namcoi102fgfgfgf9@gmail.com"
+    },
+    {
+      "name": "BackEnd2",
+      "email": "admin@gmail.com",
+      "password": "sffffsfsfsf",
+      "id": 9
+    },
+    {
+      "name": "sdsddsds",
+      "email": "nguyennam10320011@gmail.com",
+      "password": "1424333343434",
+      "id": 10
+    },
+    {
+      "name": "nguyennam1029",
+      "email": "adminnamm@gmail.com",
+      "password": "nnkfnkfff",
+      "id": 11
+    }
+  ],
+  "categories": [
+    {
+      "title": "Campgain",
+      "url": "/campaign",
+      "id": 1
+    },
+    {
+      "title": "Risks",
+      "url": "/risks"
+    },
+    {
+      "title": "FAQ",
+      "url": "/faq"
+    },
+    {
+      "title": "Updates",
+      "url": "/updates"
+    },
+    {
+      "title": "Comments",
+      "url": "/comments"
+    }
+  ],
+  "campaigns": [
+    {
+      "title": "Meet - AI Virtual Background 4K Webcam",
+      "short_description": "The first-ever 4K webcam that embeded AI technology to\nprotect your background during video calls.",
+      "goal": "12",
+      "amount": "100",
+      "prefilled": "122",
+      "video": "https://youtu.be/T6FfXfN9a-o",
+      "category": "ModGame",
+      "featured_image": {
+        "medium": "https://i.ibb.co/JthhDbm/DSCF2146.jpg",
+        "thumb": "https://i.ibb.co/c3mm4pk/DSCF2146.jpg",
+        "url": "https://i.ibb.co/B31107c/DSCF2146.jpg"
+      },
+      "country": "Japan",
+      "id": 4
+    },
+    {
+      "title": "anh yeeu em",
+      "short_description": "The first-ever 4K webcam that embeded AI technology to\nprotect your background during video",
+      "goal": "23",
+      "amount": "2222",
+      "prefilled": "",
+      "video": "https://youtu.be/T6FfXfN9a-o",
+      "category": "education",
+      "featured_image": {
+        "medium": "https://i.ibb.co/QM0MbTT/DSCF2384.jpg",
+        "thumb": "https://i.ibb.co/GRmRx88/DSCF2384.jpg",
+        "url": "https://i.ibb.co/KWnW0ff/DSCF2384.jpg"
+      },
+      "content": "<p><span style=\"color: rgb(28, 30, 33);\">Welcome to the Redux Toolkit Query tutorial!&nbsp;This tutorial will briefly introduce you to Redux Toolkit's \"RTK Query\" data fetching capability and teach you how to start using it correctly.</span></p><p><br></p><p><img src=\"https://i.ibb.co/6bXG6L7/DSCF2227.jpg\"></p><p><br></p><p><br></p><p><span style=\"color: rgb(28, 30, 33);\">With RTK Query, you usually define your entire API definition in one place. This is most likely different from what you see with other libraries such as&nbsp;</span><code style=\"color: rgb(28, 30, 33); background-color: var(--ifm-color-emphasis-300);\">swr</code><span style=\"color: rgb(28, 30, 33);\">&nbsp;or&nbsp;</span><code style=\"color: rgb(28, 30, 33); background-color: var(--ifm-color-emphasis-300);\">react-query</code><span style=\"color: rgb(28, 30, 33);\">, and there are several reasons for that. Our perspective is that it's&nbsp;</span><em style=\"color: rgb(28, 30, 33);\">much</em><span style=\"color: rgb(28, 30, 33);\">&nbsp;easier to keep track of how requests, cache invalidation, and general app configuration behave when they're all in one central location in comparison to having X number of custom hooks in different files throughout your application.</span></p><p><br></p><p><img src=\"https://i.ibb.co/GRVNh4G/DSCF2228.jpg\"></p><p><br></p><p><br></p><p><span style=\"color: rgb(28, 30, 33);\">An RTKQ service generates a \"slice reducer\" that should be included in the Redux root reducer, and a custom middleware that handles the data fetching. Both need to be added to the Redux store.</span></p>",
+      "id": 7
+    },
+    {
+      "title": "useSelector",
+      "short_description": "The optional comparison function also enables using something like Lodash's _.isEqual() or Immutable.js's comparison capabilities.",
+      "goal": "99",
+      "amount": "999",
+      "prefilled": "",
+      "video": "https://youtu.be/T6FfXfN9a-o",
+      "category": "architecture",
+      "featured_image": {
+        "medium": "https://i.ibb.co/qDSV8y8/DSCF2327.jpg",
+        "thumb": "https://i.ibb.co/Jc1gTBT/DSCF2327.jpg",
+        "url": "https://i.ibb.co/K5PSg0g/DSCF2327.jpg"
+      },
+      "id": 8
+    },
+    {
+      "title": "Meet - AI Virtual Background 4K Webcam",
+      "short_description": "The first-ever 4K webcam that embeded AI technology to\nprotect your background during video calls.",
+      "goal": "2000",
+      "amount": "173",
+      "featured_image": {
+        "medium": "https://i.ibb.co/Jr7rMcS/camera.png",
+        "thumb": "https://i.ibb.co/Jr7rMcS/camera.png",
+        "url": "https://i.ibb.co/Jr7rMcS/camera.png"
+      },
+      "prefilled": "Macro photography ",
+      "video": "https://youtu.be/T6FfXfN9a-o",
+      "category": "education",
+      "content": "<p><img src=\"https://i.ibb.co/Jr7rMcS/camera.png\"></p><p><br></p><p><br></p><p>Capture everything in 4k, with extended battery life and pro-g</p><p>inspired features. Choose from three <strong>4k recording modes</strong>: UHD,</p><p>HD and cinematic 24p. Use the Wi-Fi feature to connect and stream</p><p>your footage wirelessly directly to your iOS and Android smartphones</p><p>or tablets for instant sharing. The monitor has a 3.5\" touch screen</p><p>for easy navigation and built-in wifi that automatically connects</p><p>to the last used smartphone or tablet once paired. </p><p><br></p><p><img src=\"https://i.ibb.co/8MQcpvM/2.png\"></p><p><br></p><p>Built with an advanced <strong>4K image sensor and a Super 35</strong> imaging</p><p>processer the GH4 is able to capture cinema quality images</p><p>with astonishing detail. This camera has evolved into a great</p><p>all-rounder for photography or filmmaking.</p><p><br></p><p><strong>Digital Cameras</strong></p><ol><li>Images can be instantly checked, and retaken if necessary.</li><li>.Black and White and sepia-tone photos can be easily created.</li><li> Macro photography lets you shoot down to a few centimeters away.</li><li> Most digital cameras can also take moving pictures.</li><li> No film purchase or development costs, Rechargeable battery packs are economical🤑🤑🤑.</li><li> Macro photography lets you shoot down to a few centimeters away.</li></ol>",
+      "id": 14
+    }
+  ]
+}
