@@ -1,0 +1,177 @@
+{
+  "posts": [
+    {
+      "title": "CopyRight Automatico",
+      "tags": "[JS]"
+    },
+    {
+      "title": "HtmlWebpackPlugin Multiples HTML files",
+      "tags": "[JS, webpack]"
+    }
+  ],
+  "users": [
+    {
+      "fullName": "Nguyen Nam",
+      "email": "nguyennam10320011@gmail.com",
+      "password": "s",
+      "avatar": "https://scontent-hkt1-2.xx.fbcdn.net/v/t39.30808-6/329850244_581124607217235_4231346006075250628_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=RPo4_5-LdvUAX-hGyoO&_nc_ht=scontent-hkt1-2.xx&oh=00_AfDLJ6gTyf6TaYhpJxw8H2S61RmxlYwJqjst9F4ghBY46A&oe=641520A4",
+      "id": 43
+    }
+  ],
+  "currentUser": {
+    "fullName": "Nguyen Nam",
+    "email": "nguyennam10320011@gmail.com",
+    "password": "s",
+    "avatar": "https://scontent-hkt1-2.xx.fbcdn.net/v/t39.30808-6/329850244_581124607217235_4231346006075250628_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=RPo4_5-LdvUAX-hGyoO&_nc_ht=scontent-hkt1-2.xx&oh=00_AfDLJ6gTyf6TaYhpJxw8H2S61RmxlYwJqjst9F4ghBY46A&oe=641520A4"
+  },
+  "categories": [
+    {
+      "title": "Campaign",
+      "url": "/Campaign",
+      "id": 1
+    },
+    {
+      "title": "Risks",
+      "url": "/risks"
+    },
+    {
+      "title": "FAQ",
+      "url": "/faq"
+    },
+    {
+      "title": "Updates",
+      "url": "/updates"
+    },
+    {
+      "title": "Comments",
+      "url": "/comments"
+    }
+  ],
+  "campaigns": [
+    {
+      "title": "Meet - AI Virtual Background 4K Webcam",
+      "short_description": "The first-ever 4K webcam that embeded AI technology to\nprotect your background during video calls.",
+      "goal": "555",
+      "amount": "2222",
+      "prefilled": "122",
+      "featured_image": {
+        "thumb": "https://i.ibb.co/WcbKb9P/camera.png",
+        "url": "https://i.ibb.co/sF030S6/camera.png"
+      },
+      "video": "https://youtu.be/T6FfXfN9a-o",
+      "category": "architecture",
+      "content": "<p><img src=\"https://i.ibb.co/sF030S6/camera.png\"></p><p><br></p><p>Capture everything in 4k, with extended battery life and pro-g</p><p>inspired features. Choose from three 4k recording modes: UHD,</p><p>HD and cinematic 24p. Use the Wi-Fi feature to connect and stream</p><p>your footage wirelessly directly to your iOS and Android smartphones</p><p>or tablets for instant sharing. The monitor has a 3.5\" touch screen</p><p>for easy navigation and built-in wifi that automatically connects</p><p>to the last used smartphone or tablet once paired. </p><p><br></p><p><img src=\"https://i.ibb.co/3MrDNTn/2.png\"></p><p>Built with an <strong>advanced 4K image sensor</strong> and a Super 35 imaging</p><p>processer the GH4 is able to capture cinema quality images</p><p>with astonishing detail. This camera has evolved into a great</p><p>all-rounder for photography or filmmaking.</p><p><br></p><p><strong>Digital Cameras</strong></p><ol><li>Images can be instantly checked, and retaken if necessary.</li><li> 2. Black and White and sepia-tone photos can be easily created.</li><li> 3. Macro photography lets you shoot down to a few centimeters</li><li>     away.</li><li> 4. Most digital cameras can also take moving pictures.</li><li> 5. No film purchase or development costs, Rechargeable battery</li><li>     packs are economical🤑🤑🤑.</li><li> 6. Macro photography lets you shoot down to a few centimeters</li><li>     away.</li></ol>",
+      "id": 1
+    },
+    {
+      "title": "Meet - AI Virtual Background 4K Webcam",
+      "short_description": "The first-ever 4K webcam that embeded AI technology to\nprotect your background during video calls.",
+      "goal": "555",
+      "amount": "2222",
+      "prefilled": "122",
+      "video": "https://youtu.be/T6FfXfN9a-o",
+      "featured_image": {
+        "thumb": "https://i.ibb.co/dLWd2fR/2.png",
+        "url": "https://i.ibb.co/3MrDNTn/2.png"
+      },
+      "category": "architecture",
+      "content": "<p><img src=\"https://i.ibb.co/sF030S6/camera.png\"></p><p><br></p><p>Capture everything in 4k, with extended battery life and pro-g</p><p>inspired features. Choose from three 4k recording modes: UHD,</p><p>HD and cinematic 24p. Use the Wi-Fi feature to connect and stream</p><p>your footage wirelessly directly to your iOS and Android smartphones</p><p>or tablets for instant sharing. The monitor has a 3.5\" touch screen</p><p>for easy navigation and built-in wifi that automatically connects</p><p>to the last used smartphone or tablet once paired. </p><p><br></p><p><img src=\"https://i.ibb.co/3MrDNTn/2.png\"></p><p>Built with an <strong>advanced 4K image sensor</strong> and a Super 35 imaging</p><p>processer the GH4 is able to capture cinema quality images</p><p>with astonishing detail. This camera has evolved into a great</p><p>all-rounder for photography or filmmaking.</p><p><br></p><p><strong>Digital Cameras</strong></p><ol><li>Images can be instantly checked, and retaken if necessary.</li><li> 2. Black and White and sepia-tone photos can be easily created.</li><li> 3. Macro photography lets you shoot down to a few centimeters</li><li>     away.</li><li> 4. Most digital cameras can also take moving pictures.</li><li> 5. No film purchase or development costs, Rechargeable battery</li><li>     packs are economical🤑🤑🤑.</li><li> 6. Macro photography lets you shoot down to a few centimeters</li><li>     away.</li></ol>",
+      "id": 11
+    },
+    {
+      "title": "JWST took a stunning picture of a star that’s about to go supernova",
+      "short_description": "The James Webb Space Telescope has taken an astonishingly detailed image of a Wolf-Rayet star as it blows off its outer layers in preparation to go supernova",
+      "goal": "99",
+      "amount": "100",
+      "prefilled": "122",
+      "video": "https://youtu.be/T6FfXfN9a-o",
+      "category": "education",
+      "content": "<p>About 15,000 light years away, a star is getting ready to go supernova. The&nbsp;<a href=\"https://www.newscientist.com/definition/james-webb-space-telescope-jwst/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(31, 75, 164);\">James Webb Space Telescope</a>&nbsp;(JWST) has captured a beautiful image of a massive star, known as a Wolf-Rayet star, that has begun to shed its outer layers before exploding in a supernova.</p><p><br></p><p>This star is called WR 124, and it is about 30 times as massive as the sun. When stars that huge run out of hydrogen to burn in their core, they begin to fuse heavier elements instead. This fusion creates powerful blasts of energy, blowing out gusts of wind at velocities in the millions of kilometres per hour.</p><p><br></p><p><img src=\"https://i.ibb.co/SKYqNvt/tac-dong-cua-tri-tue-nhan-tao-ai-voi-nen-kinh-te-loi-hay-hai-butthuemedia-com-1.png\"></p><p><br></p><p>It would be a big leap forward. Until now, we have only been able to predict someone’s risk of getting rare diseases caused by single genes. But soon we will be able to predict how likely you are to get the far more common conditions caused by multiple genes.</p><p>Yet some critics say this new era of preventive medicine is being rushed in without proper consideration of the consequences – for the people getting their risk scores and for healthcare systems. “These tests have benefits, but they also have risks and adverse events,” says Amit Sud at The Institute of Cancer Research in London.</p><p>What is clear is that with several polygenic risk tests already on sale to the public, we need to weigh up the costs and benefits from the impending uptake before it is too late.</p><p>Claims that genetics is about to transform medicine have been made …</p>",
+      "id": 166767,
+      "featured_image": {
+        "medium": "https://i.ibb.co/tbGRQt2/my-08145612.jpg",
+        "thumb": "https://i.ibb.co/cNBqkH8/my-08145612.jpg",
+        "url": "https://i.ibb.co/64MQrxt/my-08145612.jpg"
+      }
+    },
+    {
+      "title": "nam thu",
+      "short_description": "The first-ever 4K webcam that embeded AI technology to\nprotect your background during video calls.",
+      "goal": "555",
+      "amount": "2222",
+      "prefilled": "122",
+      "featured_image": {
+        "thumb": "https://i.ibb.co/WcbKb9P/camera.png",
+        "url": "https://i.ibb.co/sF030S6/camera.png"
+      },
+      "video": "https://youtu.be/T6FfXfN9a-o",
+      "category": "architecture",
+      "content": "<p><img src=\"https://i.ibb.co/sF030S6/camera.png\"></p><p><br></p><p>Capture everything in 4k, with extended battery life and pro-g</p><p>inspired features. Choose from three 4k recording modes: UHD,</p><p>HD and cinematic 24p. Use the Wi-Fi feature to connect and stream</p><p>your footage wirelessly directly to your iOS and Android smartphones</p><p>or tablets for instant sharing. The monitor has a 3.5\" touch screen</p><p>for easy navigation and built-in wifi that automatically connects</p><p>to the last used smartphone or tablet once paired. </p><p><br></p><p><img src=\"https://i.ibb.co/3MrDNTn/2.png\"></p><p>Built with an <strong>advanced 4K image sensor</strong> and a Super 35 imaging</p><p>processer the GH4 is able to capture cinema quality images</p><p>with astonishing detail. This camera has evolved into a great</p><p>all-rounder for photography or filmmaking.</p><p><br></p><p><strong>Digital Cameras</strong></p><ol><li>Images can be instantly checked, and retaken if necessary.</li><li> 2. Black and White and sepia-tone photos can be easily created.</li><li> 3. Macro photography lets you shoot down to a few centimeters</li><li>     away.</li><li> 4. Most digital cameras can also take moving pictures.</li><li> 5. No film purchase or development costs, Rechargeable battery</li><li>     packs are economical🤑🤑🤑.</li><li> 6. Macro photography lets you shoot down to a few centimeters</li><li>     away.</li></ol>",
+      "id": 176
+    },
+    {
+      "title": "Amazon wants you to help train robots by playing a video game",
+      "short_description": "A computer game being developed by Amazon, called Alexa Arena, is designed to harvest information on how humans interact with robots so the firm can train the machines on how best to go about their duties in offices and homes",
+      "goal": "2000",
+      "amount": "3333",
+      "prefilled": "122",
+      "video": "https://youtu.be/T6FfXfN9a-o",
+      "category": "education",
+      "featured_image": {
+        "medium": "https://i.ibb.co/1zcBzJD/nh-1-1601020880824640206293.jpg",
+        "thumb": "https://i.ibb.co/7khBkNw/nh-1-1601020880824640206293.jpg",
+        "url": "https://i.ibb.co/hY0rY1P/nh-1-1601020880824640206293.jpg"
+      },
+      "content": "<p>Amazon has created a video game called&nbsp;<em>Alexa Arena</em>&nbsp;in which you interact with virtual robots. It is designed to gather data to train robots on how to behave around humans, but there are doubts over how many people will actually play the game.</p><p>Amazon has industrial robots for its vast warehouses but also develops consumer devices such as the&nbsp;<a href=\"https://techcrunch.com/2021/09/28/why-amazon-built-a-home-robot/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(31, 75, 164);\">Astro home robot</a>, which launched in 2021. The robots are trained using data from physical …</p><p><br></p><p><img src=\"https://i.ibb.co/hY0rY1P/nh-1-1601020880824640206293.jpg\"></p><p><br></p><p>Amazon has created a video game called&nbsp;<em>Alexa Arena</em>&nbsp;in which you interact with virtual robots. It is designed to gather data to train robots on how to behave around humans, but there are doubts over how many people will actually play the game.</p><p>Amazon has industrial robots for its vast warehouses but also develops consumer devices such as the&nbsp;<a href=\"https://techcrunch.com/2021/09/28/why-amazon-built-a-home-robot/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(31, 75, 164);\">Astro home robot</a>, which launched in 2021. The robots are trained using data from physical …</p>",
+      "id": 166768
+    },
+    {
+      "title": "nam ",
+      "short_description": "The first-ever 4K webcam that embeded AI technology to\nprotect your background during video calls.",
+      "goal": "555",
+      "amount": "2222",
+      "prefilled": "122",
+      "featured_image": {
+        "thumb": "https://i.ibb.co/WcbKb9P/camera.png",
+        "url": "https://i.ibb.co/sF030S6/camera.png"
+      },
+      "video": "https://youtu.be/T6FfXfN9a-o",
+      "category": "architecture",
+      "content": "<p><img src=\"https://i.ibb.co/sF030S6/camera.png\"></p><p><br></p><p>Capture everything in 4k, with extended battery life and pro-g</p><p>inspired features. Choose from three 4k recording modes: UHD,</p><p>HD and cinematic 24p. Use the Wi-Fi feature to connect and stream</p><p>your footage wirelessly directly to your iOS and Android smartphones</p><p>or tablets for instant sharing. The monitor has a 3.5\" touch screen</p><p>for easy navigation and built-in wifi that automatically connects</p><p>to the last used smartphone or tablet once paired.</p><p><br></p><p><img src=\"https://i.ibb.co/3MrDNTn/2.png\"></p><p>Built with an <strong>advanced 4K image sensor</strong> and a Super 35 imaging</p><p>processer the GH4 is able to capture cinema quality images</p><p>with astonishing detail. This camera has evolved into a great</p><p>all-rounder for photography or filmmaking.</p><p><br></p><p><strong>Digital Cameras</strong></p><ol><li>Images can be instantly checked, and retaken if necessary.</li><li>2. Black and White and sepia-tone photos can be easily created.</li><li>3. Macro photography lets you shoot down to a few centimeters</li><li>away.</li><li>4. Most digital cameras can also take moving pictures.</li><li>5. No film purchase or development costs, Rechargeable battery</li><li>packs are economical🤑🤑🤑.</li><li>6. Macro photography lets you shoot down to a few centimeters</li><li>away.</li></ol>",
+      "id": 17644
+    },
+    {
+      "title": "New DNA tests predict your disease risk – are we ready for them?",
+      "short_description": "Polygenic tests can predict your risk of heart disease, diabetes and cancer, but some doctors worry about the consequences for healthcare systems and for us",
+      "goal": "123665",
+      "amount": "8445544",
+      "prefilled": "2",
+      "video": "https://youtu.be/T6FfXfN9a-o",
+      "featured_image": {
+        "medium": "https://i.ibb.co/gm4pj6z/tong-quan-du-an-sunrise-riverside.jpg",
+        "thumb": "https://i.ibb.co/wBcX0YM/tong-quan-du-an-sunrise-riverside.jpg",
+        "url": "https://i.ibb.co/ZG2PLNW/tong-quan-du-an-sunrise-riverside.jpg"
+      },
+      "country": "Japan",
+      "content": "<p>IT SOUNDS too good to be true: a medical test that can detect diseases you may develop decades from now. Suitably forewarned, you can take immediate steps to reduce your risk.</p><p>This is the promise of polygenic tests, so named because they involve sequencing multiple parts of someone’s DNA. They are being developed for a growing number of diseases, and advocates claim that they could revolutionise medicine by helping people avoid everything from type 1 diabetes to heart attacks and cancer. “If we can shift the focus to prevention, we could get a fundamentally different approach to healthcare,” says John Bell at the University of Oxford, who recently helped launch a massive pilot scheme in the UK involving the National Health Service.</p><p><br></p><p><img src=\"https://i.ibb.co/mN3WcWm/vin-hom-tan-cang.jpg\"></p><p><br></p><p><br></p><p>It would be a big leap forward. Until now, we have only been able to predict someone’s risk of getting rare diseases caused by single genes. But soon we will be able to predict how likely you are to get the far more common conditions caused by multiple genes.</p><p>Yet some critics say this new era of preventive medicine is being rushed in without proper consideration of the consequences – for the people getting their risk scores and for healthcare systems. “These tests have benefits, but they also have risks and adverse events,” says Amit Sud at The Institute of Cancer Research in London.</p><p>What is clear is that with several polygenic risk tests already on sale to the public, we need to weigh up the costs and benefits from the impending uptake before it is too late.</p><p>Claims that genetics is about to transform medicine have been made …</p>",
+      "id": 166765
+    },
+    {
+      "title": "GPT-4: OpenAI says its AI has 'human-level performance' on tests",
+      "short_description": "An update to the AI behind ChatGPT has been released by OpenAI. The firm says other companies are already using it, including the language-learning app Duolingo, the payment service Stripe and Microsoft's Bing search engine",
+      "goal": "87833",
+      "amount": "956643",
+      "prefilled": "32445",
+      "video": "https://youtu.be/T6FfXfN9a-o",
+      "category": "education",
+      "featured_image": {
+        "medium": "https://i.ibb.co/Xz0mXJ7/tac-dong-cua-tri-tue-nhan-tao-ai-voi-nen-kinh-te-loi-hay-hai-butthuemedia-com-1.png",
+        "thumb": "https://i.ibb.co/P5XBxCc/tac-dong-cua-tri-tue-nhan-tao-ai-voi-nen-kinh-te-loi-hay-hai-butthuemedia-com-1.png",
+        "url": "https://i.ibb.co/SKYqNvt/tac-dong-cua-tri-tue-nhan-tao-ai-voi-nen-kinh-te-loi-hay-hai-butthuemedia-com-1.png"
+      },
+      "country": "United States",
+      "content": "<p>IT SOUNDS too good to be true: a medical test that can detect diseases you may develop decades from now. Suitably forewarned, you can take immediate steps to reduce your risk.</p><p>This is the promise of polygenic tests, so named because they involve sequencing multiple parts of someone’s DNA. They are being developed for a growing number of diseases, and advocates claim that they could revolutionise medicine by helping people avoid everything from type 1 diabetes to heart attacks and cancer. “If we can shift the focus to prevention, we could get a fundamentally different approach to healthcare,” says John Bell at the University of Oxford, who recently helped launch a massive pilot scheme in the UK involving the National Health Service.</p><p><br></p><p><img src=\"https://i.ibb.co/SKYqNvt/tac-dong-cua-tri-tue-nhan-tao-ai-voi-nen-kinh-te-loi-hay-hai-butthuemedia-com-1.png\"></p><p><br></p><p>It would be a big leap forward. Until now, we have only been able to predict someone’s risk of getting rare diseases caused by single genes. But soon we will be able to predict how likely you are to get the far more common conditions caused by multiple genes.</p><p>Yet some critics say this new era of preventive medicine is being rushed in without proper consideration of the consequences – for the people getting their risk scores and for healthcare systems. “These tests have benefits, but they also have risks and adverse events,” says Amit Sud at The Institute of Cancer Research in London.</p><p>What is clear is that with several polygenic risk tests already on sale to the public, we need to weigh up the costs and benefits from the impending uptake before it is too late.</p><p>Claims that genetics is about to transform medicine have been made …</p>",
+      "id": 166766
+    }
+  ]
+}
