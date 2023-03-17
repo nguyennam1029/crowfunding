@@ -26,8 +26,8 @@ const SignInPage = () => {
     control,
     formState: { errors, isSubmitting },
   } = useForm({
-    mode: "onChange",
     resolver: yupResolver(schema),
+    mode: "onSubmit",
   });
   const { value: showPassword, handleToggleValue: handleTogglePassword } =
     useToggleValue();
@@ -35,16 +35,15 @@ const SignInPage = () => {
   const navigate = useNavigate();
   const dispatch = useDispatch();
   const handleSignIn = (values) => {
-    // setTimeout(() => {
-    dispatch(
-      authLogin({
-        email: values.email,
-        password: values.password,
-      })
-    );
-    // }, 2000);
+    setTimeout(() => {
+      dispatch(
+        authLogin({
+          email: values.email,
+          password: values.password,
+        })
+      );
+    }, 2000);
   };
-  console.log("isSubmitting ", isSubmitting);
 
   if (currentUser) {
     navigate("/");

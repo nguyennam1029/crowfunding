@@ -89,7 +89,7 @@ function* watchLoginFlow() {
     const isLoggedIn = localStorage.getItem("access_token");
     if (!isLoggedIn) {
       const action = yield take(authLogin);
-
+      console.log("action ", action.payload);
       yield fork(handleAuthLogin, action.payload);
     }
 

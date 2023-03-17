@@ -2,6 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import classNames from "utils/classNames";
 import { Link } from "react-router-dom";
+import { is } from "immer/dist/internal";
 
 const Button = ({
   type = "button",
@@ -11,9 +12,7 @@ const Button = ({
   onClick = () => {},
   ...rest
 }) => {
-  if (isLoading) {
-    console.log("load ", isLoading);
-  }
+  console.log("loadd", isLoading);
   const child = !!isLoading ? (
     <div className="w-10 h-10 border-4 border-white rounded-full border-t-transparent border-b-transparent animate-spin"></div>
   ) : (

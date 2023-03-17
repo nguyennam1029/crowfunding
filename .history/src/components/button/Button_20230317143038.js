@@ -11,9 +11,7 @@ const Button = ({
   onClick = () => {},
   ...rest
 }) => {
-  if (isLoading) {
-    console.log("load ", isLoading);
-  }
+  console.log("loadd", isLoading);
   const child = !!isLoading ? (
     <div className="w-10 h-10 border-4 border-white rounded-full border-t-transparent border-b-transparent animate-spin"></div>
   ) : (

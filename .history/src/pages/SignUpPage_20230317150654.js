@@ -46,6 +46,7 @@ const SignUpPage = () => {
   const { currentUser } = useSelector((state) => state.auth);
 
   const handleSignUp = async (values) => {
+    console.log("err ", errors);
     // if (isValid) {
     //   return toast.error("Please fill out the form");
     // }

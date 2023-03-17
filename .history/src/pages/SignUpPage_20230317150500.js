@@ -36,8 +36,8 @@ const SignUpPage = () => {
     reset,
     formState: { errors, isValid, isSubmitting },
   } = useForm({
+    mode: "onChange",
     resolver: yupResolver(schema),
-    mode: "onSubmit",
   });
   // const { currentUser } = useSelector((state) => state.auth);
 

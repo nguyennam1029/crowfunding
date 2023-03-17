@@ -11,10 +11,8 @@ const Button = ({
   onClick = () => {},
   ...rest
 }) => {
-  if (isLoading) {
-    console.log("load ", isLoading);
-  }
-  const child = !!isLoading ? (
+  console.log("loadd", isLoading);
+  const child = isLoading ? (
     <div className="w-10 h-10 border-4 border-white rounded-full border-t-transparent border-b-transparent animate-spin"></div>
   ) : (
     children
@@ -46,7 +44,7 @@ const Button = ({
     <button
       className={classNames(
         defaultClassName,
-        !!isLoading ? "opacity-50 pointer-events-none" : "",
+        isLoading ? "opacity-50 pointer-events-none" : "",
         className
       )}
       type={type}

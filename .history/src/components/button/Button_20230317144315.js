@@ -53,7 +53,9 @@ const Button = ({
       {...rest}
       onClick={onClick}
     >
-      {child}
+      {children}
+      {/* {child} */}
+      {/* {isLoading ? <p>Load</p> : children} */}
     </button>
   );
 };

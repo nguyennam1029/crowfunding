@@ -26,8 +26,8 @@ const SignInPage = () => {
     control,
     formState: { errors, isSubmitting },
   } = useForm({
-    mode: "onChange",
     resolver: yupResolver(schema),
+    mode: "onSubmit",
   });
   const { value: showPassword, handleToggleValue: handleTogglePassword } =
     useToggleValue();
