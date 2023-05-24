@@ -14,6 +14,7 @@ import { Button } from "components/button";
 import { useDispatch, useSelector } from "react-redux";
 import { authLogin, authRegister, authSignUp } from "store/auth/auth-slice";
 import { toast } from "react-toastify";
+import avatar from "../../public/avatar.jpg";
 
 // import slugify from "slugify";
 
@@ -54,8 +55,7 @@ const SignUpPage = () => {
         fullName: values.name,
         email: values.email,
         password: values.password,
-        avatar:
-          "https://drive.google.com/file/d/1Uo7ujK7uvkoJxBxXHrxaTPfzMPzl_ERF/view?usp=sharing",
+        avatar: avatar,
       })
     );
     dispatch(
@@ -64,7 +64,7 @@ const SignUpPage = () => {
         email: values.email,
         password: values.password,
         avatar:
-          "https://drive.google.com/file/d/1Uo7ujK7uvkoJxBxXHrxaTPfzMPzl_ERF/view?usp=sharing",
+          "https://scontent-hkt1-2.xx.fbcdn.net/v/t39.30808-6/329850244_581124607217235_4231346006075250628_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=RPo4_5-LdvUAX-hGyoO&_nc_ht=scontent-hkt1-2.xx&oh=00_AfDLJ6gTyf6TaYhpJxw8H2S61RmxlYwJqjst9F4ghBY46A&oe=641520A4",
       })
     );
   };

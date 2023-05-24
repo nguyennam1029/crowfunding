@@ -64,11 +64,6 @@ function* handleAuthSignUp(payload) {
   }
 }
 function* handleAuthLogOut() {
-  // yield take(authLogOut);
-
-  localStorage.removeItem("access_token");
-}
-function* handleAuthLogOut2() {
   yield take(authLogOut);
 
   localStorage.removeItem("access_token");
@@ -99,7 +94,7 @@ function* watchLoginFlow() {
     }
 
     // yield take(authLogOut);
-    // yield call(handleAuthLogOut);
+    yield call(handleAuthLogOut);
     //DỢI CALL LÀM XONG MỚI ĐI TIÊP
   }
 }
@@ -122,7 +117,6 @@ export {
   watchLoginFlow,
   watchSignUpFlow,
   handleGetCurrentUser,
-  handleAuthLogOut2,
 };
 
 // function* handleAuthLogin({ payload }) {

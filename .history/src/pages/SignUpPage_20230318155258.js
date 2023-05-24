@@ -55,7 +55,7 @@ const SignUpPage = () => {
         email: values.email,
         password: values.password,
         avatar:
-          "https://drive.google.com/file/d/1Uo7ujK7uvkoJxBxXHrxaTPfzMPzl_ERF/view?usp=sharing",
+          "https://scontent-hkg4-1.xx.fbcdn.net/v/t39.30808-6/329850244_581124607217235_4231346006075250628_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=PwhhVfN_sF8AX9M5mzV&_nc_ht=scontent-hkg4-1.xx&oh=00_AfA9555bKVWEtfnJ3PbnCBVp4cv_71SE8fRiVE8RjP_-vQ&oe=641B0F64",
       })
     );
     dispatch(
@@ -64,7 +64,7 @@ const SignUpPage = () => {
         email: values.email,
         password: values.password,
         avatar:
-          "https://drive.google.com/file/d/1Uo7ujK7uvkoJxBxXHrxaTPfzMPzl_ERF/view?usp=sharing",
+          "https://scontent-hkt1-2.xx.fbcdn.net/v/t39.30808-6/329850244_581124607217235_4231346006075250628_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=RPo4_5-LdvUAX-hGyoO&_nc_ht=scontent-hkt1-2.xx&oh=00_AfDLJ6gTyf6TaYhpJxw8H2S61RmxlYwJqjst9F4ghBY46A&oe=641520A4",
       })
     );
   };

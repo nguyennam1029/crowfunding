@@ -68,11 +68,6 @@ function* handleAuthLogOut() {
 
   localStorage.removeItem("access_token");
 }
-function* handleAuthLogOut2() {
-  yield take(authLogOut);
-
-  localStorage.removeItem("access_token");
-}
 
 /// ĐẦU TIÊN NÓ SẺ CHẠY VÀO FLOW SAU ĐÓ CHẠY VÀO ACTION VÀ ĐỢI ĐỂ LẤY ACTION SAU ĐÓ CHUYỀN VÀO HÀM LOGIN, sau đó đứng đợi ngay sau đó là LogOut nên khi bấm login lần nữa sẻ k đc
 function* watchSignUpFlow() {
@@ -98,8 +93,8 @@ function* watchLoginFlow() {
       yield fork(handleAuthLogin, action.payload);
     }
 
-    // yield take(authLogOut);
-    // yield call(handleAuthLogOut);
+    yield take(authLogOut);
+    yield call(handleAuthLogOut);
     //DỢI CALL LÀM XONG MỚI ĐI TIÊP
   }
 }
@@ -122,7 +117,6 @@ export {
   watchLoginFlow,
   watchSignUpFlow,
   handleGetCurrentUser,
-  handleAuthLogOut2,
 };
 
 // function* handleAuthLogin({ payload }) {

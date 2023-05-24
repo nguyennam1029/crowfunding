@@ -47,7 +47,7 @@ const SignInPage = () => {
   console.log("isSubmitting ", isSubmitting);
 
   if (currentUser) {
-    navigate("/home");
+    navigate("/");
   }
   return (
     <LayoutAuthentication heading="Welcome Back!">

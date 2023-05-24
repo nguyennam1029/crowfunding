@@ -18,7 +18,7 @@ const schema = yup.object({
   password: yup
     .string()
     .required("This field is required")
-    .min(6, "Password must be 8 character "),
+    .min(1, "Password must be 8 character "),
 });
 const SignInPage = () => {
   const {
@@ -47,7 +47,7 @@ const SignInPage = () => {
   console.log("isSubmitting ", isSubmitting);
 
   if (currentUser) {
-    navigate("/home");
+    navigate("/");
   }
   return (
     <LayoutAuthentication heading="Welcome Back!">

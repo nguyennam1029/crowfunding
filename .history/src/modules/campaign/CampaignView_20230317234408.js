@@ -151,7 +151,7 @@ const CampaignView = () => {
         You also may be interested in
       </h2>
       <CampaignGrid>
-        {campaigns.slice(0, 4).map((item) => (
+        {campaigns.map((item) => (
           <CampaignItem key={item.id} item={item}></CampaignItem>
         ))}
       </CampaignGrid>

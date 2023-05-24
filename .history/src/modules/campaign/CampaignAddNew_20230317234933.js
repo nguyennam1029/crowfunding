@@ -25,14 +25,7 @@ Quill.register("modules/imageUploader", ImageUploader);
 const categoriesData = ["architecture", "education"];
 
 const CampaignAddNew = () => {
-  const {
-    handleSubmit,
-    control,
-    setValue,
-    reset,
-    watch,
-    formState: { isLoading },
-  } = useForm();
+  const { handleSubmit, control, setValue, reset, watch } = useForm();
   const dispatch = useDispatch();
   const getDropdownLabel = (name, defaultValue = "") => {
     const value = watch(name) || defaultValue;
@@ -68,12 +61,11 @@ const CampaignAddNew = () => {
               "Content-Type": "multipart/form-data",
             },
           });
-          // return response.data.data.url;
-          console.log(response);
+          console.log("image ", response.data.data.url);
+          return response.data.data.url;
         },
       },
     }),
-
     []
   );
   const handleSelectDropdownOption = (name, value) => {
@@ -273,7 +265,6 @@ const CampaignAddNew = () => {
             <Button
               type="submit"
               className="px-10 mx-auto text-white bg-primary"
-              isLoading={isLoading}
             >
               Submit new campaign{" "}
             </Button>

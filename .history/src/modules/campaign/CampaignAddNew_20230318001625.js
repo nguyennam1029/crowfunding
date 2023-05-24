@@ -170,6 +170,7 @@ const CampaignAddNew = () => {
               <ImageUpload
                 onChange={setValue}
                 name="featured_image"
+                loading={isLoading}
               ></ImageUpload>
             </FormGroup>
             <FormGroup></FormGroup>
@@ -273,7 +274,6 @@ const CampaignAddNew = () => {
             <Button
               type="submit"
               className="px-10 mx-auto text-white bg-primary"
-              isLoading={isLoading}
             >
               Submit new campaign{" "}
             </Button>

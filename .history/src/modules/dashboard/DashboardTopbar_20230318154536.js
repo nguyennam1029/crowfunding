@@ -14,7 +14,7 @@ const DashboardTopbar = () => {
 
   const dispatch = useDispatch();
   const { currentUser } = useSelector((state) => state.auth);
-
+  console.log("current ", currentUser);
   useEffect(() => {
     dispatch(getUser());
   }, []);
@@ -44,7 +44,7 @@ const DashboardTopbar = () => {
   return (
     <div className="flex items-center justify-between mb-8">
       <div className="flex items-center flex-1 gap-x-10">
-        <Link to="/home" className="inline-block">
+        <Link to="/" className="inline-block">
           <img srcSet="/logo.png 2x" alt="crowfunding-app" />
         </Link>
         <div className=" max-w-[458px] w-full">
@@ -66,8 +66,7 @@ const DashboardTopbar = () => {
           onClick={() => setToggle(!toggle)}
         >
           <img
-            src="/avatar.jpg"
-            // src={currentUser?.avatar}
+            src={currentUser?.avatar}
             alt="crowfunding-app"
             className="object-cover w-[52px] h-[52px] rounded-full"
           />
@@ -92,8 +91,7 @@ const DashboardTopbar = () => {
                 className="flex flex-col items-center justify-center"
               >
                 <img
-                  src="/avatar.jpg"
-                  // src={currentUser?.avatar}
+                  src={currentUser?.avatar}
                   alt=""
                   className="object-cover w-[82px] h-[82px] rounded-full"
                 />

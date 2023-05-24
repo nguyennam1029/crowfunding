@@ -64,13 +64,8 @@ function* handleAuthSignUp(payload) {
   }
 }
 function* handleAuthLogOut() {
-  // yield take(authLogOut);
-
-  localStorage.removeItem("access_token");
-}
-function* handleAuthLogOut2() {
   yield take(authLogOut);
-
+  // yield call(handleAuthLogOut);
   localStorage.removeItem("access_token");
 }
 
@@ -122,7 +117,6 @@ export {
   watchLoginFlow,
   watchSignUpFlow,
   handleGetCurrentUser,
-  handleAuthLogOut2,
 };
 
 // function* handleAuthLogin({ payload }) {

@@ -13,7 +13,7 @@ const sidebarLinks = [
   {
     icon: <IconDashboard></IconDashboard>,
     title: "Dashboard",
-    url: "/home",
+    url: "/",
   },
   {
     icon: <IconCampaign></IconCampaign>,
