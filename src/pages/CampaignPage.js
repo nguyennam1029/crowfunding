@@ -76,7 +76,18 @@ const CampaignPage = () => {
       <Button
         kind="ghost"
         className="px-8 mx-auto"
-        onClick={() => toast.warning("Updating feature")}
+        onClick={() =>
+          toast.warning("🦄 Feature updating !", {
+            position: "top-center",
+            autoClose: 5000,
+            hideProgressBar: false,
+            closeOnClick: true,
+            pauseOnHover: true,
+            draggable: true,
+            progress: undefined,
+            theme: "colored",
+          })
+        }
       >
         <span>See more</span>
         <svg

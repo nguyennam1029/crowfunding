@@ -7,6 +7,9 @@ import FormRow from "components/common/FormRow";
 import FormGroup from "components/common/FormGroup";
 import DatePicker from "react-date-picker";
 // import axios from "../../api/axios";
+
+import { Slide, Zoom, Flip, Bounce } from "react-toastify";
+
 import { useForm } from "react-hook-form";
 import { useEffect } from "react";
 import { toast } from "react-toastify";
@@ -109,7 +112,18 @@ const CampaignUpdatePage = () => {
     const datas = { ...values, content };
 
     try {
-      dispatch(updateCampaign(datas));
+      // dispatch(updateCampaign(datas));
+
+      toast.warning("🦄 Feature updating !", {
+        position: "top-center",
+        autoClose: 5000,
+        hideProgressBar: false,
+        closeOnClick: true,
+        pauseOnHover: true,
+        draggable: true,
+        progress: 2,
+        theme: "dark",
+      });
     } catch (error) {
       console.log(error);
     }

@@ -27,7 +27,16 @@ function* handleAuthRegister(action) {
 
     // yield put(authLogin(payload));
     if (response.status === 201) {
-      toast.success("Created new account successfully");
+      toast.success("Sign up successfully", {
+        position: "top-center",
+        autoClose: 5000,
+        hideProgressBar: false,
+        closeOnClick: true,
+        pauseOnHover: true,
+        draggable: true,
+        progress: 2,
+        theme: "dark",
+      });
     }
   } catch (error) {
     console.log(error);
